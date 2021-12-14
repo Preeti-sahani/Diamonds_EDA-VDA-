@@ -1,9 +1,7 @@
 # Diamonds_EDA-VDA
 
 Diamonds Dataset
-A data set “diamonds-m.csv” containing the prices and other attributes
-
-of almost 54,000 diamonds and 10 variables:
+A data set “diamonds-m.csv” containing the prices and other attributes of almost 54,000 diamonds and 10 variables:
 
 id:  row id
 
