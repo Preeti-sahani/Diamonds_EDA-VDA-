@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Ramniranjan Jhunjhunwala College
-MSC DSAI
 EDA / VDA Project - Diamonds
-
-By: Preeti Sahani and Sahil Shaikh
-Roll No : 46 & 47
 """
 
 import pandas as pd
